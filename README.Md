@@ -1,5 +1,5 @@
 ## GraphQL
-1. GraphQl is a powerful query language to communicate between client and server.
+1. GraphQL is a powerful query language to communicate between client and server.
 2. It allows to structure data driven applications in much more flexible and effecient way compared to REST.
 3. It is technology agnostic which means it can be used with technology.
 
