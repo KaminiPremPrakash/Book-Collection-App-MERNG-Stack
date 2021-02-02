@@ -6,7 +6,7 @@
 
 ## Tech stack:
 - Front-End: React, Apollo
-- Backend: Node.js, EXpress, graphQL server
+- Backend: Node.js, Express, graphQL server
 - DB: MongoDB Atlas
 
 ![Techstack](techstack.png)
